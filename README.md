@@ -21,7 +21,7 @@ Você precisa ter um compilador C instalado. Pode ser:
 
 - **Dev-C++** (Windows) - [Download aqui](https://sourceforge.net/projects/orwelldevcpp/)
 - **Code::Blocks** (Windows/Linux) - [Download aqui](https://www.codeblocks.org/downloads/)
-- **GCC** (Linux/Mac) - já vem instalado na maioria das distros
+- **GCC** (Windows/Linux) - [Download aqui](https://www.codeblocks.org/downloads/)
 
 ### Compilando
 
