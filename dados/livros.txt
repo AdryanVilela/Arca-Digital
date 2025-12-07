@@ -1,0 +1,3 @@
+2
+20;adryan;nao sei;eudora;2025;5;0
+2;nicolas;autorizado;eldora;2023;3;0
